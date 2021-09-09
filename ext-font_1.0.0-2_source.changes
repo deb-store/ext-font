@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 09 Sep 2021 14:00:00 +0300
+Source: ext-font
+Architecture: source
+Version: 1.0.0-2
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-font (1.0.0-2) unstable; urgency=medium
+ .
+   * UPD: DEB Package.
+Checksums-Sha1:
+ 9b027712d8ce785381bb1f8a0163799cfdd61d49 1022 ext-font_1.0.0-2.dsc
+ 51e641a67ec0db69d6138c3c543de5e981e02f6b 788 ext-font_1.0.0-2.debian.tar.xz
+ 52263b4dce0684558dca99b36851a7c032bb73ca 4395 ext-font_1.0.0-2_source.buildinfo
+Checksums-Sha256:
+ bc338b23b92f5936e4c68eb8186eb0098c1378fb2676d07af2ffd5c7ca718528 1022 ext-font_1.0.0-2.dsc
+ b06b76453c1d9cbf04bb05e96967869627e239413481178263e5b8136df6fe29 788 ext-font_1.0.0-2.debian.tar.xz
+ fb5f7d8e76b248e6c98e1af9209efd6931324bf768e6539afffba81a36e0730d 4395 ext-font_1.0.0-2_source.buildinfo
+Files:
+ 77499a42ef384dc1a264c0c2fb1138bd 1022 admin optional ext-font_1.0.0-2.dsc
+ 17f3bf86824c709edd7209ef47323a05 788 admin optional ext-font_1.0.0-2.debian.tar.xz
+ aedb95771621252b9d04e34563285895 4395 admin optional ext-font_1.0.0-2_source.buildinfo
