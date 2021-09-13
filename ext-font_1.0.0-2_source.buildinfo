@@ -10,7 +10,7 @@ Checksums-Sha256:
  bc338b23b92f5936e4c68eb8186eb0098c1378fb2676d07af2ffd5c7ca718528 1022 ext-font_1.0.0-2.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 13 Sep 2021 09:29:51 +0000
+Build-Date: Mon, 13 Sep 2021 09:38:24 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
