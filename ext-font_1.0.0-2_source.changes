@@ -12,14 +12,14 @@ Changes:
  .
    * UPD: DEB Package.
 Checksums-Sha1:
- f3a3cd6e770e4add7e8f818b6606d5885552f049 1022 ext-font_1.0.0-2.dsc
+ 30b2b28c542651141bf30139c9a2a97eac887235 1022 ext-font_1.0.0-2.dsc
  51e641a67ec0db69d6138c3c543de5e981e02f6b 788 ext-font_1.0.0-2.debian.tar.xz
- e693119a743721387a9573770c9da6747c031bb2 4395 ext-font_1.0.0-2_source.buildinfo
+ 96d0816b42d8fe8b8851e3ceadeff1f17fb6ca8a 4395 ext-font_1.0.0-2_source.buildinfo
 Checksums-Sha256:
- 453d4a32ca7bd075f19ed6ab953cd0572a1a81d49a13ba7ef81a977693c16b86 1022 ext-font_1.0.0-2.dsc
+ 3e082ad0139ced2b553454badd23eb51fae4d79e1bcc43f18861493d957aba3f 1022 ext-font_1.0.0-2.dsc
  b06b76453c1d9cbf04bb05e96967869627e239413481178263e5b8136df6fe29 788 ext-font_1.0.0-2.debian.tar.xz
- 09585ca11cde90d3d3b3afd8a4a8b0b2e5fced30ec29ea245ea3adf64eece65c 4395 ext-font_1.0.0-2_source.buildinfo
+ 88c52c007fe91c09d0357be97bebf0f87a773518177437191ee1cb7af11526a5 4395 ext-font_1.0.0-2_source.buildinfo
 Files:
- 22622432d9d4412b8624024a0d8812a4 1022 admin optional ext-font_1.0.0-2.dsc
+ e110a59f8f89f6c0e12cb5d94d15c09f 1022 admin optional ext-font_1.0.0-2.dsc
  17f3bf86824c709edd7209ef47323a05 788 admin optional ext-font_1.0.0-2.debian.tar.xz
- 02eb4dd3e28dff4b646f2760dbd9c225 4395 admin optional ext-font_1.0.0-2_source.buildinfo
+ bca046b3340f57cdf9e78271f40ab880 4395 admin optional ext-font_1.0.0-2_source.buildinfo
