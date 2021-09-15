@@ -13,11 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-font deb admin optional arch=all
 Checksums-Sha1:
- fa3a9e0eeadd6afa68f5cca06b122e18b9a4d6de 47458460 ext-font_1.0.0.orig.tar.xz
- 51e641a67ec0db69d6138c3c543de5e981e02f6b 788 ext-font_1.0.0-2.debian.tar.xz
+ badd3350aeccbf68cf906a3ad9fb5ecd838921ee 47463020 ext-font_1.0.0.orig.tar.xz
+ 6e6ed5768441d427850b7f37be58d751f1652012 784 ext-font_1.0.0-2.debian.tar.xz
 Checksums-Sha256:
- 58f5f96be9e18a35d5717c2bfa4807e4376757946986fd49ad0d6684f10c2d54 47458460 ext-font_1.0.0.orig.tar.xz
- b06b76453c1d9cbf04bb05e96967869627e239413481178263e5b8136df6fe29 788 ext-font_1.0.0-2.debian.tar.xz
+ c659192a4a15c0a1061593887c0ac9147cb2143a9036ea481c32d1ec12b95a5f 47463020 ext-font_1.0.0.orig.tar.xz
+ 98aebc20cfb01850654d04ea9707e082495fd83bcef7744329c1952cc5faddec 784 ext-font_1.0.0-2.debian.tar.xz
 Files:
- d016c88307af39f92f34994605f9ce5c 47458460 ext-font_1.0.0.orig.tar.xz
- 17f3bf86824c709edd7209ef47323a05 788 ext-font_1.0.0-2.debian.tar.xz
+ b7531b057487b3b4cf8e17faf5563ff1 47463020 ext-font_1.0.0.orig.tar.xz
+ 0903fa942131a7d78dbcbf0cf9ebea3d 784 ext-font_1.0.0-2.debian.tar.xz
