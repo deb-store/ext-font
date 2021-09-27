@@ -3,14 +3,14 @@ Source: ext-font
 Architecture: source
 Version: 1.0.0-3
 Checksums-Md5:
- def5c6ed617aa6ff7224e80dc96b2e05 1022 ext-font_1.0.0-3.dsc
+ 96cb5266a926cff63b386b4cc381872a 1022 ext-font_1.0.0-3.dsc
 Checksums-Sha1:
- 89fd2e923c404e47c1756a070bbbf0b280b7749e 1022 ext-font_1.0.0-3.dsc
+ d3f4ab164a71395cc6d63fad35758a2311d54c32 1022 ext-font_1.0.0-3.dsc
 Checksums-Sha256:
- 00fd6e378465be50e67f40d33abfa306600ee10af8aae8a7f05ccf415a73bb7e 1022 ext-font_1.0.0-3.dsc
+ a2d56fac23665f0149af9ecaec40921c6bfce3247477a3b3b49dc65703a57913 1022 ext-font_1.0.0-3.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 27 Sep 2021 21:09:25 +0000
+Build-Date: Mon, 27 Sep 2021 21:16:46 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
