@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 27 Sep 2021 14:00:00 +0300
+Source: ext-font
+Architecture: source
+Version: 1.0.0-3
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-font (1.0.0-3) unstable; urgency=medium
+ .
+   * NEW: noto-emoji-fonts (commit:c05b4b47c8250ccd232780cae46d66a8179e77ab).
+   * NEW: noto-fonts (commit:fd059782cdd4952a9cab23149f30795e6e5c078c).
+   * UPD: fira-code-fonts (v5.2).
+   * UPD: Change paths.
+Checksums-Sha1:
+ 89fd2e923c404e47c1756a070bbbf0b280b7749e 1022 ext-font_1.0.0-3.dsc
+ 6f28fa3ddc3bc1821bd4e1efea0f31d7ec86fe9d 932 ext-font_1.0.0-3.debian.tar.xz
+ 01b5161a4e62bfe7eba868b67d25eaa83fe3a71d 4395 ext-font_1.0.0-3_source.buildinfo
+Checksums-Sha256:
+ 00fd6e378465be50e67f40d33abfa306600ee10af8aae8a7f05ccf415a73bb7e 1022 ext-font_1.0.0-3.dsc
+ 7bce72eb24ed8e288061194e2523c3fbebc08803b2dc76a6e212bd6ebc55f6fa 932 ext-font_1.0.0-3.debian.tar.xz
+ 974c95b7ced99a15b96e59487d12495ec13fb5384548a3dbeb7267f8b647e4de 4395 ext-font_1.0.0-3_source.buildinfo
+Files:
+ def5c6ed617aa6ff7224e80dc96b2e05 1022 admin optional ext-font_1.0.0-3.dsc
+ c9b7e23ae740441f41b47d3d3bf2f2e3 932 admin optional ext-font_1.0.0-3.debian.tar.xz
+ 17f11c487be1d58df56118cb9698613e 4395 admin optional ext-font_1.0.0-3_source.buildinfo
