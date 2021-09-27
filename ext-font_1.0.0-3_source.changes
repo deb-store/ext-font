@@ -15,14 +15,14 @@ Changes:
    * UPD: fira-code-fonts (v5.2).
    * UPD: Change paths.
 Checksums-Sha1:
- d3f4ab164a71395cc6d63fad35758a2311d54c32 1022 ext-font_1.0.0-3.dsc
- 6342b07925c7c4358ea690ada32348c9a0f5fba4 928 ext-font_1.0.0-3.debian.tar.xz
- af2df93c4daf07ff218cd13f4f8bfba6947b0b5f 4395 ext-font_1.0.0-3_source.buildinfo
+ 6e8d9f870112a8146bafef725cda902a3255f474 1022 ext-font_1.0.0-3.dsc
+ 683c4a852a85f0f4aa1ec710372937e8ff45bef6 924 ext-font_1.0.0-3.debian.tar.xz
+ 48b93eaa1f983a2255d33f1d057c535e592aa4f5 4395 ext-font_1.0.0-3_source.buildinfo
 Checksums-Sha256:
- a2d56fac23665f0149af9ecaec40921c6bfce3247477a3b3b49dc65703a57913 1022 ext-font_1.0.0-3.dsc
- 7782f72f4a5308d4171a9e33139e57ab3c92f25451eca1d455a449eb5f596935 928 ext-font_1.0.0-3.debian.tar.xz
- 1ebfd7059a34baa9f6db654ee0db1f2bdc8468606f233af47dc47663ba70999f 4395 ext-font_1.0.0-3_source.buildinfo
+ da9144aee4485cafdb4520fd966068ebca7d78c60d3b906c9b510b63dba053da 1022 ext-font_1.0.0-3.dsc
+ 06a3b7ed921e46431e683cc0a70bc04ffc27abb3c37c3e125afe884a2f671377 924 ext-font_1.0.0-3.debian.tar.xz
+ 94c048cfbfcebb58c9beca68b958cdc553eb9f9943ab441f05dda82800554a6c 4395 ext-font_1.0.0-3_source.buildinfo
 Files:
- 96cb5266a926cff63b386b4cc381872a 1022 fonts optional ext-font_1.0.0-3.dsc
- 9cabc976424db54f81f90644bc79473e 928 fonts optional ext-font_1.0.0-3.debian.tar.xz
- fa9b17c1d062eb17687139fc5d948a0e 4395 fonts optional ext-font_1.0.0-3_source.buildinfo
+ 66b79dd103536aae5d537e89fa44971c 1022 fonts optional ext-font_1.0.0-3.dsc
+ 72cfe25fdf03d8b8b596571e539a52bb 924 fonts optional ext-font_1.0.0-3.debian.tar.xz
+ 86a42f02ed934b23d86baaeccf0411a9 4395 fonts optional ext-font_1.0.0-3_source.buildinfo
