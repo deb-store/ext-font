@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-font
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-font.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-font deb fonts optional arch=all
 Checksums-Sha1:
- babab3977ab2b5b141889fe15d441742bd3c8883 89158868 ext-font_1.0.0.orig.tar.xz
- 25348c5a1d8a0a877e507696c5c817ec28e89acb 1008 ext-font_1.0.0-5.debian.tar.xz
+ b2a69b3d8d50442a601be1db96823709c4141bf7 89160756 ext-font_1.0.0.orig.tar.xz
+ 53ba75893d809715c44b1bae0265cb20bb2ad491 996 ext-font_1.0.0-5.debian.tar.xz
 Checksums-Sha256:
- eee95db0dd2f49f9db434cd916273115cd8f261396bf438a0b3791994e704af9 89158868 ext-font_1.0.0.orig.tar.xz
- e2cef141b728cccf31c4de7c6429f2681e9940ada51528fcbf765c611a40370a 1008 ext-font_1.0.0-5.debian.tar.xz
+ 7a45c496feae457ff3cae1a83cba9156c167fd767a14e135d4fc6fb3c1b47175 89160756 ext-font_1.0.0.orig.tar.xz
+ 1bb265e92256c76085121b91880b7bd1f998502bf3c2e1a5ebf1da1bfceee32f 996 ext-font_1.0.0-5.debian.tar.xz
 Files:
- fb92c6235cd77d24649e088e56f78089 89158868 ext-font_1.0.0.orig.tar.xz
- 0cca1937e5cfd8b9b021a5386276ba61 1008 ext-font_1.0.0-5.debian.tar.xz
+ d6a6bc7a4285d14972027ab6643b51af 89160756 ext-font_1.0.0.orig.tar.xz
+ de3607e3f67f84a83865298675c57595 996 ext-font_1.0.0-5.debian.tar.xz
