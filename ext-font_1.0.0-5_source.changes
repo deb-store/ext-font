@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 28 Sep 2021 12:00:00 +0300
+Source: ext-font
+Architecture: source
+Version: 1.0.0-5
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-font (1.0.0-5) unstable; urgency=medium
+ .
+   * ADD: "pt-sans".
+   * ADD: "pt-serif".
+   * DEL: "noto-music".
+   * DEL: "noto-symbols".
+   * UPD: "local.conf".
+Checksums-Sha1:
+ 572b98b6f6f2437875bc26203b7bbe718fc77c33 1025 ext-font_1.0.0-5.dsc
+ 25348c5a1d8a0a877e507696c5c817ec28e89acb 1008 ext-font_1.0.0-5.debian.tar.xz
+ bdf591776c73504fce3326b0606dcd0f1644e8c5 4395 ext-font_1.0.0-5_source.buildinfo
+Checksums-Sha256:
+ 7f2edf3e75a691b198ba2fa66e8466853c2d43e3f1f3bdea028e26e84b93bd19 1025 ext-font_1.0.0-5.dsc
+ e2cef141b728cccf31c4de7c6429f2681e9940ada51528fcbf765c611a40370a 1008 ext-font_1.0.0-5.debian.tar.xz
+ fbe5093f303f6fecbf94100bc436f7ac162b6fd1adbcd55fa30c8ddfbaf18d57 4395 ext-font_1.0.0-5_source.buildinfo
+Files:
+ f3d14eb525501a8ebc0f9e2f803dd21a 1025 fonts optional ext-font_1.0.0-5.dsc
+ 0cca1937e5cfd8b9b021a5386276ba61 1008 fonts optional ext-font_1.0.0-5.debian.tar.xz
+ 32194bc1c3b7866a79c651ccb5c2a1fa 4395 fonts optional ext-font_1.0.0-5_source.buildinfo
