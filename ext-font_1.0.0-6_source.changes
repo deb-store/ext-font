@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 24 Mar 2022 00:22:00 +0300
+Source: ext-font
+Architecture: source
+Version: 1.0.0-6
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <mail@z17.dev>
+Changed-By: Package Store <mail@z17.dev>
+Changes:
+ ext-font (1.0.0-6) unstable; urgency=medium
+ .
+   * DEL: Remove Fira Code ".woff2" files.
+Checksums-Sha1:
+ 054ac21a99a965db6e47488990b7227635c00277 984 ext-font_1.0.0-6.dsc
+ 04372819f6c3edef2cd01812520518624627b0bb 1052 ext-font_1.0.0-6.debian.tar.xz
+ e5c09c9c315b1a597ed8c61b5f9b27833abb11b1 4569 ext-font_1.0.0-6_source.buildinfo
+Checksums-Sha256:
+ 31bb9b4ee4f456260f90d21dd29f5dd84ee23a3e09f05fb36f8cb97c4cef2d04 984 ext-font_1.0.0-6.dsc
+ 6b699a88fc97c7b9463eab2d6fe0dbc07309036b317c42b6e3c5836017156f1b 1052 ext-font_1.0.0-6.debian.tar.xz
+ 8b059045fca262c0e1cc47b0ba2d71517414cefedfe47d337180a62692fc87c1 4569 ext-font_1.0.0-6_source.buildinfo
+Files:
+ a21e7d04af8c7ba06fc06a1662633fac 984 fonts optional ext-font_1.0.0-6.dsc
+ d4db821779cb69b291ae58ac6d929607 1052 fonts optional ext-font_1.0.0-6.debian.tar.xz
+ 60a5d01902f77913f10489ca8b53e0a4 4569 fonts optional ext-font_1.0.0-6_source.buildinfo
